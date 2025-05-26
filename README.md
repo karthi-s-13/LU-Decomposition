@@ -56,7 +56,6 @@ print(X)
 ``` 
 
 ## Output:
-![lu decomposition]()
 ![Screenshot 2024-12-04 160034](https://github.com/user-attachments/assets/5714ed88-867e-4140-ad55-e7d0e7e4f93a)
 ![Screenshot 2024-12-04 160613](https://github.com/user-attachments/assets/9eac93d3-d86c-4e4d-90ce-bd9bbca844fc)
 
