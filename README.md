@@ -35,8 +35,8 @@ print(U)
 ```
 '''
 Program to solve a matrix using LU decomposition.
-Developed by: GAUTHAM KRISHNA S
-RegisterNumber: 23012450
+Developed by: KARTHIKEYAN S
+RegisterNumber: 212224230116
 '''
 
 # To print X matrix (solution to the equations)
